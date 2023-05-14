@@ -1,7 +1,7 @@
 # js-basic-questions
 This includes basic Js  questions
 1-Print only Number that it should be print only integer. <br>
-“ const str=["1","3",52, "Subhan"] “
+“ const str=["1","3",52, "Subhan"] “<br>
 2-Destructure an array. <br>
 3-Split an array into Pairs and if a pair is not full, it will contain the leftover items.<br>
 4-Array Methods with syntax and examples.<br>
